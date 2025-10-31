@@ -21,6 +21,15 @@ auch die einzelnen funktionen und ich hab noch wieder einfach ein bisschen in di
 ## Planung 31.10.2025
 nächstes mal will ich an den nächsten modulen was warscheinlich projekte sind arbeiten
 
+###Reflexion
+Heute habe ich weiter an unserem Projekt, dem Hypothekenrechner mit Abdullah gearbeitet. Wir haben die Anforderungsanalyse abgeschlossen und damit einen wichtigen Schritt im Projekt erreicht. Anschliessend haben wir begonnen, die Planung und Umsetzung zu besprechen also wie wir das Programm strukturieren, welche Funktionen es haben soll und wie wir die Arbeit aufteilen.Dabei konnten wir bereits erste Ideen sammeln, wie wir die Benutzeroberfläche gestalten und die Berechnungslogik umsetzen wollen. Insgesamt war es ein produktiver Tag, an dem wir gute Fortschritte gemacht haben.
+
+##Planung 07.11.2025
+- Weitere Ideen sammeln für das projekt
+- Vielleicht schon Code Ideen oder so Sammeln also wie Coden wir das usw.
+- Modul 162 arbeiten
+
+###Reflexionb
 
 
 
