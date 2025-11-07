@@ -29,7 +29,9 @@ Heute habe ich weiter an unserem Projekt, dem Hypothekenrechner mit Abdullah gea
 - Vielleicht schon Code Ideen oder so Sammeln also wie Coden wir das usw.
 - Modul 162 arbeiten
 
-###Reflexionb
+###Reflexion
+Heute habe ich zur hälfte am modul 162 ich habe 1721 fertig gemacht zum thema qualität und 1722 bereinigung fast fertig gemacht. Abdullah und ich haben noch am Hypothekrechenr gearbeitet-wir haben die projektplannung 
+ein bisschen angepasst und ich habe im c# buch gelesen und nopch ein bisschen gecoded
 
 
 
