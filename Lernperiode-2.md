@@ -29,11 +29,25 @@ Heute habe ich weiter an unserem Projekt, dem Hypothekenrechner mit Abdullah gea
 - Vielleicht schon Code Ideen oder so Sammeln also wie Coden wir das usw.
 - Modul 162 arbeiten
 
-### Reflexion
-Heute habe ich zur hälfte am modul 162 ich habe 1721 fertig gemacht zum thema qualität und 1722 bereinigung fast fertig gemacht. Abdullah und ich haben noch am Hypothekrechenr gearbeitet-wir haben die projektplannung 
-ein bisschen angepasst und ich habe im c# buch gelesen und nopch ein bisschen gecoded
+### Reflexion 14.11.2025
+Heute habe ich intensiv am Modul 162 gearbeitet und bin ungefähr zur Hälfte damit fertig geworden. Ein Schwerpunkt lag dabei auf den Aufgaben rund um Qualität und Bereinigung. Die Aufgabe 1721 zum Thema Qualität konnte ich vollständig abschließen. Ich habe mich dabei mit den verschiedenen Aspekten von Softwarequalität beschäftigt und die Anforderungen sauber dokumentiert. Bei der Aufgabe 1722, die sich mit der Bereinigung befasst, bin ich ebenfalls weit vorangekommen und stehe kurz vor dem Abschluss.
 
+Darüber hinaus habe ich zusammen mit Abdullah weiter am Hypothekenrechner gearbeitet. Wir haben nicht nur am Code selbst weitergearbeitet, sondern auch unsere Projektplanung überarbeitet und angepasst. Dabei haben wir Aufgaben neu priorisiert und die nächsten Arbeitsschritte klarer definiert, damit wir effizienter weiterarbeiten können.
 
+Neben diesen Projektarbeiten habe ich auch etwas Zeit investiert, um im C#-Buch weiterzulesen. Das hat mir geholfen, einige Zusammenhänge besser zu verstehen und mein Wissen zu vertiefen. Um das Gelernte direkt anzuwenden, habe ich anschließend auch noch ein wenig in C# programmiert und kleinere Codeabschnitte ausprobiert.
+
+Insgesamt war es ein produktiver Tag mit deutlichem Fortschritt in mehreren Bereichen.
+###plannung 21.11.2025
+Am Projekt arbeiten und eine WPF-Applikation:
+
+Benutzerfreundliches GUI machen und präsentation anfangen
+
+###Reflexion 21.11.2025
+Heute habe ich an meiner WPF-Applikation gearbeitet und dabei gute Fortschritte gemacht. Ich konnte die grundlegende Struktur aufbauen und erste Funktionen erfolgreich umsetzen. Dabei habe ich auch viel über das Zusammenspiel von XAML und C# gelernt und ein besseres Verständnis dafür entwickelt, wie man Benutzeroberflächen sauber und logisch aufbaut.
+
+Außerdem habe ich begonnen, an meiner Präsentation zu arbeiten. Ich habe die wichtigsten Themen gesammelt, die ich vorstellen möchte, und bereits eine erste Struktur erstellt. Dadurch habe ich einen klaren Überblick bekommen, welche Inhalte ich noch ausarbeiten muss und wie ich die Präsentation verständlich und gut aufbereitet präsentieren kann.
+
+Insgesamt war es ein produktiver Tag, an dem ich sowohl an meinem Projekt als auch an meiner Präsentation spürbare Fortschritte gemacht habe.
 
 ## Lernperiode Reflexion
 ...
