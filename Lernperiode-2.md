@@ -49,6 +49,10 @@ Außerdem habe ich begonnen, an meiner Präsentation zu arbeiten. Ich habe die w
 
 Insgesamt war es ein produktiver Tag, an dem ich sowohl an meinem Projekt als auch an meiner Präsentation spürbare Fortschritte gemacht habe.
 
+### Reflexion 28.11.2025
+Heute im Lernatelier haben wir mit der Vorbereitung unserer Präsentation für das Projekt begonnen. Wir haben gemeinsam überlegt, welche Inhalte wichtig sind, und damit angefangen, die ersten Folien zu erstellen. Dabei konnten wir bereits eine grobe Struktur festlegen und uns darüber austauschen, wie wir unser Projekt klar und verständlich vorstellen wollen.
+
+Zusätzlich habe ich im Modul 162 nochmals das logische und das konzeptionelle Datenmodell angeschaut. Das hat mir geholfen, mein Wissen aufzufrischen und besser zu verstehen, wie die verschiedenen Datenmodelle miteinander zusammenhängen und warum sie für ein sauberes Projekt wichtig sind. Insgesamt war es eine produktive Lernatelier-Stunde, in der ich sowohl am Projekt als auch an meinem fachlichen Verständnis weiterarbeiten konnte.
 ## Lernperiode Reflexion
 ...
 
