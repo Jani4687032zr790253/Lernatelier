@@ -11,7 +11,7 @@ Die nächsen modulen
 
 # Generelle Ziels
 Ich möchte meine Note verbessern und vertiefter in die informatik einschleussen und die nächsten modulen eine gute note bekommen
-#Reflexion 16.01.2026
+# Reflexion 16.01.2026
 Heute habe ich mich mit dem Erstellen von Datenbanken und dem Einfügen von Daten beschäftigt. Ich konnte die grundlegenden SQL-Befehle anwenden und verstehe nun besser, wie Tabellen aufgebaut sind und wie Daten gespeichert werden. Teilweise musste ich Befehle mehrmals ausprobieren, bis sie korrekt funktionierten.
 
 Modul 117 – Informatik- und Netzinfrastruktur
