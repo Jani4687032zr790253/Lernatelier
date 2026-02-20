@@ -17,7 +17,7 @@ Heute habe ich mich mit dem Erstellen von Datenbanken und dem Einfügen von Date
 Modul 117 – Informatik- und Netzinfrastruktur
 
 Im Modul 117 habe ich an der Planung einer IT- und Netzinfrastruktur für ein kleines Unternehmen gearbeitet. Dabei wurde mir klar, wie wichtig eine saubere Planung von Netzwerk, Servern und Endgeräten ist. Einige Begriffe musste ich nochmals nachschlagen, habe sie danach aber besser verstanden.
-# Planung 24.01.2026
+# Planung 23.01.2026
 Im nächsten Lernatelier möchte ich:
 
 bei Modul 164 mehr üben, besonders bei komplexeren SQL-Abfragen
@@ -25,4 +25,8 @@ bei Modul 164 mehr üben, besonders bei komplexeren SQL-Abfragen
 bei Modul 117 die Netzwerkkonzepte weiter vertiefen
 
 offene Fragen klären und meine Dokumentation verbessern
+
+# Reflexion 23.01.2026
+Heute habe ich am Lb Vom M164 also das logische datenmodell angefangen und im modul 117 habe ich ein paar tests gemacht
+
 
