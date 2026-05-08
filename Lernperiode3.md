@@ -44,6 +44,12 @@ In diesem Lernatelier habe ich die DML-Aufträge aus M106 bearbeitet und M187 (B
 Gut lief, dass ich die meisten SQL-Aufgaben selbstständig lösen konnte und die Grundlagen besser verstanden habe. Auch die Repetition hat mir geholfen, mein Wissen aufzufrischen.
 Weniger gut war, dass ich bei komplexeren Abfragen noch unsicher bin und teilweise zu lange an Aufgaben gearbeitet habe.
 In Zukunft möchte ich mehr üben und bei Schwierigkeiten schneller Hilfe holen, um effizienter zu arbeiten.
-# Plannung 
+# Plannung 8.05.2026
 - [ ] projekt starten
 - [ ] programmieren ein bisschen vertiefen
+# Reflexion 8.05.2026
+Heute habe ich mehrere Lern- und Arbeitsaufträge zu DDL und Schema-Änderungen bearbeitet. Ich habe gelernt, wie man Datentypen einer Spalte ändert, Foreign Key Constraints erstellt und Spalten löscht. Ausserdem habe ich eine neue Tabelle timeperiods erstellt und die Daten aus der Spalte starship_consumables in das neue normalisierte Datenmodell überführt. Die Planung von letzter Woche habe ich leider nicht umgesetzt — Projekt starten und Programmieren vertiefen sind noch offen und nehme ich auf die nächste Planung mit.
+# Plannung 22.05.2026
+- [ ] projekt starten
+- [ ] programmieren ein bisschen vertiefen
+
